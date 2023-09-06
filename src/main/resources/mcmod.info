@@ -1,8 +1,8 @@
 [
 {
-  "modid": "deathcoordinates",
-  "name": "DeathCoordinates",
-  "description": "This mod allows you to see the coordinates after death",
+  "modid": "deathcoordinatesdebug",
+  "name": "DeathCoordinatesDebug",
+  "description": "This mod is an addition to the main deathcoordinates mod.\nThis add-on will help you turn deathcoordinates on or off",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
